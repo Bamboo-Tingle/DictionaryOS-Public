@@ -1,6 +1,15 @@
-# DictionaryOS
-An English Dictionary Consultation System
+# DictionaryOS 须知（简体中文）
+这是一个英语词组用法查询学习系统
 -支持iOS/iPadOS 15或更新版本，macOS 10或更新版本，Harmony OS，Android 10或更新版本，Windows 2000或更新版本
 -可以将我们的发行版文件下载到本地，通过Microsoft 365或Office等软件打开，也可尝试导入至iOS/iPadOS图书
 -使用方法：查阅资料请使用“查找”功能
+- Created by _**尚启睿 汤仕铭**_
+
+# DictionaryOS README（English）
+An English Dictionary Consultation System
+- Support iOS/iPadOS 15 or later, macOS 10 or later, Harmony OS, Android 10 or later, Windows 2000 or later
+
+- You can download our distribution files locally, open them through software such as Microsoft 365 or Office, or try to import them into iOS/iPadOS books.
+
+- Usage: Please use the "Find" function to view the information.
 - Created by _**尚启睿 汤仕铭**_
